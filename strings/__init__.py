@@ -1,6 +1,6 @@
 import os
 from typing import List
-
+LOGGERS = "the_vip_boy_robot"
 import yaml
 
 languages = {}
